@@ -4,6 +4,7 @@ using TaleWorlds.CampaignSystem;
 using TaleWorlds.CampaignSystem.Actions;
 using TaleWorlds.Library;
 using TaleWorlds.Localization;
+using childrenGrowFaster;
 
 namespace childrenGrowFaster
 {
@@ -58,6 +59,32 @@ namespace childrenGrowFaster
                 return $"Set {targetChild.Name} to age {newAge:F1}.";
 
 
+            }
+            catch (Exception e)
+            {
+                return $"Error: {e.Message}";
+            }
+        }
+
+        [CommandLineFunctionality.CommandLineArgumentFunction("change_default_growth_rate", "debug")]
+        public static string ChangeDefaultGrowthRate(List<string> strings)
+        {
+            try
+            {
+                if (strings.Count < 1)
+                {
+                    return "Usage: change_default_growth_rate [new_growth_rate] (note that the default is 15)";
+                }
+                float newGrowthRate = float.Parse(strings[0]);
+                if (newGrowthRate < 0 || newGrowthRate > 40)
+                {
+                    return "Error: Growth rate must be between 0 and 40";
+                }
+                else
+                {
+                    SubModuleSettings.Instance.newGrowthRate = newGrowthRate;
+                    return $"Default growth rate changed to {newGrowthRate:F1} - note that the default is 15";
+                }
             }
             catch (Exception e)
             {
