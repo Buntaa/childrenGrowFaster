@@ -1,0 +1,49 @@
+# Ignore build directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+
+# Ignore package directories
+packages/
+node_modules/
+
+# Ignore Visual Studio specific files
+.vscode/
+.vs/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.old
+*.orig
+
+# Ignore other unnecessary files
+*.swp
+*.swo
+*.class
+*.pyc
+*.pyo
+*.cache
+*.coverage
+*.egg-info/
+dist/
+build/
