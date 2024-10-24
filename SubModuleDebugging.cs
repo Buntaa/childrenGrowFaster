@@ -16,6 +16,7 @@ namespace ChildrenGrowFaster
 
         private static void CreateAndMarryNewHero()
         {
+            // creating hero stuff (wish it could be more compact ;c )
             TextObject heroName = new TextObject("Debug Wife");
             Clan heroClan = Clan.PlayerClan;
             CultureObject heroCulture = Hero.MainHero.Clan.Culture;
