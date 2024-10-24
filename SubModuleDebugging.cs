@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using TaleWorlds.CampaignSystem;
+using TaleWorlds.CampaignSystem.Actions;
 using TaleWorlds.Library;
 using TaleWorlds.Localization;
 
@@ -10,7 +11,10 @@ namespace ChildrenGrowFaster
         [CommandLineFunctionality.CommandLineArgumentFunction("create_and_marry_hero", "debug")]
         public static string CreateAndMarryHero(List<string> strings)
         {
-            CreateAndMarryNewHero();
+            if (Hero.MainHero.Spouse == null)
+            {
+                CreateAndMarryNewHero();
+            }
             return "Hero created and married to main hero.";
         }
 
