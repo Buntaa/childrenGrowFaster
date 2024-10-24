@@ -1,0 +1,13 @@
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\bin\x64\Debug\net6\childrenGrowFaster.deps.json
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\bin\x64\Debug\net6\childrenGrowFaster.dll
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\bin\x64\Debug\net6\childrenGrowFaster.pdb
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.csproj.AssemblyReference.cache
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.AssemblyInfoInputs.cache
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.AssemblyInfo.cs
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.csproj.CoreCompileInputs.cache
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.sourcelink.json
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.dll
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\refint\childrenGrowFaster.dll
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\childrenGrowFaster.pdb
+F:\Code\c_sharp\bannerlord_development\childrenGrowFaster\obj\x64\Debug\net6\ref\childrenGrowFaster.dll
