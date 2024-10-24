@@ -27,11 +27,12 @@ To configure the mod, use the Mod Configuration Menu (MCM). Navigate to the MCM 
 ## Mod Conflictions
 If you are wondering if this mod has any conflictions with other mods it does not.
 UNLESS that mod is messing with the DailyTickEvent method in CampaignEvents class and is 
+adding logic that messes with Heroes.
 
 
 ## Contributing
 
-We welcome contributions from the community! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+I welcome contributions from the community! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
@@ -39,6 +40,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please reach out to us on our [Discord server](https://discord.gg/D7gwcMzT2K).
+For any questions or support, please reach out to me on my [Discord server](https://discord.gg/D7gwcMzT2K).
 
 Enjoy your enhanced Bannerlord experience with the Children Grow Faster mod!
