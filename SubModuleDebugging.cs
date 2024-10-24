@@ -5,6 +5,7 @@ using TaleWorlds.CampaignSystem.Actions;
 using TaleWorlds.Library;
 using TaleWorlds.Localization;
 using childrenGrowFaster;
+using TaleWorlds.TwoDimension;
 
 namespace childrenGrowFaster
 {
@@ -95,12 +96,13 @@ namespace childrenGrowFaster
         private static void CreateAndMarryNewHero()
         {
             // creating hero stuff (wish it could be more compact ;c )
-            TextObject heroName = new TextObject("Debug Wife");
+            TextObject heroFullName = new TextObject("Debug Wife");
+            TextObject heroFirstName = new TextObject("Debug");
             Clan heroClan = Clan.PlayerClan;
             CultureObject heroCulture = Hero.MainHero.Clan.Culture;
             CharacterObject templateCharacter = CharacterObject.FindFirst(character => character.Culture == heroCulture && character.Occupation == Occupation.Lord);
             Hero newHero = HeroCreator.CreateSpecialHero(templateCharacter, Hero.MainHero.HomeSettlement, Hero.MainHero.Clan, null);
-            newHero.SetName(heroName, heroName);
+            newHero.SetName(heroFullName, heroFirstName);
             newHero.CharacterObject.IsFemale = true;
             newHero.Clan = heroClan;
             heroClan.Heroes.Add(newHero);
