@@ -24,6 +24,9 @@ Welcome to the **Children Grow Faster** mod for Mount & Blade II: Bannerlord! Th
 ## Configuration
 To configure the mod, use the Mod Configuration Menu (MCM). Navigate to the MCM settings in the game to customize the options available for this mod.
 
+## Mod Conflictions
+If you are wondering if this mod has any conflictions with other mods it does not.
+UNLESS that mod is messing with the DailyTickEvent method in CampaignEvents class and is 
 
 
 ## Contributing
@@ -36,6 +39,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please reach out to us on our [Discord server](#).
+For any questions or support, please reach out to us on our [Discord server](https://discord.gg/D7gwcMzT2K).
 
 Enjoy your enhanced Bannerlord experience with the Children Grow Faster mod!
