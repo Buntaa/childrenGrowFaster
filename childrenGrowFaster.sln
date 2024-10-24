@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "childrenGrowFaster", "childrenGrowFaster.csproj", "{4B5F46BA-B412-4AE2-8052-A3251473391C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5F46BA-B412-4AE2-8052-A3251473391C}.Debug|x64.ActiveCfg = Debug|x64
+		{4B5F46BA-B412-4AE2-8052-A3251473391C}.Debug|x64.Build.0 = Debug|x64
+		{4B5F46BA-B412-4AE2-8052-A3251473391C}.Release|x64.ActiveCfg = Release|x64
+		{4B5F46BA-B412-4AE2-8052-A3251473391C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8C7CE6-73EE-4120-A643-F77F4400F68C}
+	EndGlobalSection
+EndGlobal
