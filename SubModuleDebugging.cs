@@ -5,7 +5,7 @@ using TaleWorlds.CampaignSystem.Actions;
 using TaleWorlds.Library;
 using TaleWorlds.Localization;
 
-namespace ChildrenGrowFaster
+namespace childrenGrowFaster
 {
     public class SubModuleDebugging
     {
