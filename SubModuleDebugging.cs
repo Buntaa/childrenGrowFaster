@@ -74,7 +74,7 @@ namespace childrenGrowFaster
             {
                 if (strings.Count < 1)
                 {
-                    return "Usage: change_default_growth_rate [new_growth_rate] (note that the default is 15)";
+                    return "Usage: change_default_growth_rate [new_growth_rate] - (note that the default is 15)";
                 }
                 float newGrowthRate = float.Parse(strings[0]);
                 if (newGrowthRate < 0 || newGrowthRate > 40)
@@ -84,7 +84,7 @@ namespace childrenGrowFaster
                 else
                 {
                     SubModuleSettings.Instance.newGrowthRate = newGrowthRate;
-                    return $"Default growth rate changed to {newGrowthRate:F1} - note that the default is 15";
+                    return $"Default growth rate changed to {newGrowthRate:F1} - (note that the default is 15)";
                 }
             }
             catch (Exception e)
