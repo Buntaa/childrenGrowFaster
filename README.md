@@ -1,4 +1,5 @@
 # Children Grow Faster Mod for Bannerlord
+[![CodeFactor](https://www.codefactor.io/repository/github/buntaa/childrengrowfaster/badge)](https://www.codefactor.io/repository/github/buntaa/childrengrowfaster)
 
 Welcome to the **Children Grow Faster** mod for Mount & Blade II: Bannerlord! This mod aims to enhance your gameplay experience by allowing children in the game to grow up faster.
 
