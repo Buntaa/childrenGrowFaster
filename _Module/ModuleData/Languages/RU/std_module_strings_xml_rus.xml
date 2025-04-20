@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Русский" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Дети растут быстрее Ремастер успешно загружен." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} получил черту {randomTrait.Name} уровня {randomTraitLevel}!" />
+		<string id="CGFR_YYayWvdK" text="Дети растут быстрее Ремастер" />
+		<string id="CGFR_5GjemDpY" text="Настройки скорости роста детей" />
+		<string id="CGFR_xpz8K0H5" text="Темпы роста" />
+		<string id="CGFR_1ZWhgRlk" text="Скорость роста детей. 1 = нормальная скорость; 2 = в два раза быстрее; 3 = в три раза быстрее скорость роста и т. д. [По умолчанию: 2]" />
+		<string id="CGFR_86Zt3waL" text="Когда герой становится взрослым?" />
+		<string id="CGFR_Aog3zurZ" text="Сообщите этому моду, когда дети станут взрослыми. Почему? Потому что если вы используете мод 'Bannerlord Expanded - Children Expanded', там есть настройка 'Герой становится взрослым', сделайте эту настройку такой же, как и здесь. [По умолчанию: 18]" />
+		<string id="CGFR_88NRzszQ" text="Влиять только на детей игрока" />
+		<string id="CGFR_s9e0XtHk" text="Мод влияет только на скорость роста детей игрока. [По умолчанию: ложь]" />
+		<string id="CGFR_MYAPs8YR" text="Мгновенный рост детей" />
+		<string id="CGFR_vMl3gSRM" text="Дети мгновенно вырастут до взрослого возраста. [По умолчанию: ложь]" />
+		<string id="CGFR_fdWNNbDe" text="Влиять на всех" />
+		<string id="CGFR_XFONu6ZR" text="Скорость роста влияет на всех детей и всех взрослых. [По умолчанию: ложь]" />
+		<string id="CGFR_IXejEQz9" text="Случайные черты" />
+		<string id="CGFR_LAO16M20" text="Случайные черты для детей игрока" />
+		<string id="CGFR_7aDvIEFA" text="Включает случайные черты для детей игрока. [По умолчанию: ложь]" />
+		<string id="CGFR_P7mRMhWb" text="Шанс черты" />
+		<string id="CGFR_eF4AlwLL" text="Шанс, что дети получат случайную черту (в процентах). [По умолчанию: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Дни между добавлением следующей черты" />
+		<string id="CGFR_nOUVxHZI" text="Сколько дней должно пройти с момента добавления последней черты, прежде чем попытаться добавить следующую? Имейте в виду, что для добавления следующей черты должно быть выполнено значение 'Шанс черты'. [По умолчанию: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Длительность беременности (патч Harmony)" />
+		<string id="CGFR_daNt7nlf" text="Включить настройку длительности беременности" />
+		<string id="CGFR_WcwRhJm0" text="Должно быть включено, чтобы нижний ползунок работал. Эта функция активирует патч Harmony Postfix, поэтому проверьте, не конфликтует ли он с другими модами, которые регулируют длительность беременности. Возможно, другой мод уже делает то же самое. [По умолчанию: ложь]" />
+		<string id="CGFR_yvgrrQcd" text="Настроить длительность беременности" />
+		<string id="CGFR_DlU01AjN" text="Настройте количество дней, необходимых для рождения детей. [По умолчанию: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Проверка количества черт у ребенка" />
+		<string id="CGFR_kJimhLwp" text="Сколько черт должно быть у ребенка, чтобы этот мод перестал проверять, можно ли добавить новую черту? [По умолчанию: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

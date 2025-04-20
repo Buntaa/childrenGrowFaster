@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Español (LA)" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Los Niños Crecen Más Rápido Redux cargado con éxito." />
+		<string id="CGFR_S7CDl3Ac" text="¡{randomChild.Name} ha ganado el rasgo {randomTrait.Name} con nivel {randomTraitLevel}!" />
+		<string id="CGFR_YYayWvdK" text="Los Niños Crecen Más Rápido Redux" />
+		<string id="CGFR_5GjemDpY" text="Configuración de la Tasa de Crecimiento de los Niños" />
+		<string id="CGFR_xpz8K0H5" text="Índice de crecimiento" />
+		<string id="CGFR_1ZWhgRlk" text="Tasa de crecimiento infantil. 1 = tasa normal; 2 = el doble de rápido; 3 = el triple de rápido, y así sucesivamente. [Predeterminado: 2]" />
+		<string id="CGFR_86Zt3waL" text="¿Cuándo el Héroe Alcanza la Mayoría de Edad?" />
+		<string id="CGFR_Aog3zurZ" text="Haz saber a este mod cuándo los niños alcanzarán la mayoría de edad. ¿Por qué? Porque si usas el mod 'Bannerlord Expanded - Children Expanded', hay una configuración 'El Héroe Alcanza la Mayoría de Edad', haz que esta configuración sea igual a esa. [Por defecto: 18]" />
+		<string id="CGFR_88NRzszQ" text="Afectar Solo a los Hijos del Jugador" />
+		<string id="CGFR_s9e0XtHk" text="El mod solo afecta la tasa de crecimiento de los hijos del jugador. [Por defecto: falso]" />
+		<string id="CGFR_MYAPs8YR" text="Crecimiento Instantáneo de los Niños" />
+		<string id="CGFR_vMl3gSRM" text="Los niños crecerán hasta la adultez instantáneamente. [Por defecto: falso]" />
+		<string id="CGFR_fdWNNbDe" text="Afectar a Todos" />
+		<string id="CGFR_XFONu6ZR" text="La tasa de crecimiento afecta a todos los niños y a todos los adultos. [Por defecto: falso]" />
+		<string id="CGFR_IXejEQz9" text="Rasgos Aleatorios" />
+		<string id="CGFR_LAO16M20" text="Rasgos Aleatorios para los Hijos del Jugador" />
+		<string id="CGFR_7aDvIEFA" text="Habilita rasgos aleatorios para los hijos del jugador. [Por defecto: falso]" />
+		<string id="CGFR_P7mRMhWb" text="Probabilidad de Rasgo" />
+		<string id="CGFR_eF4AlwLL" text="Probabilidad de que los niños obtengan un rasgo aleatorio (en porcentaje). [Por defecto: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Días Entre la Adición del Próximo Rasgo" />
+		<string id="CGFR_nOUVxHZI" text="¿Cuántos días deben pasar desde que se agregó el último rasgo antes de intentar agregar el próximo? Ten en cuenta que para que se agregue el próximo rasgo, se debe cumplir el valor de 'Probabilidad de Rasgo'. [Por defecto: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Duración del Embarazo (Parche Harmony)" />
+		<string id="CGFR_daNt7nlf" text="Habilitar Duración Ajustable del Embarazo" />
+		<string id="CGFR_WcwRhJm0" text="Debe estar habilitado para que el control deslizante de abajo funcione. Esta función habilitará el parche Harmony Postfix, así que verifica con tus otros mods que ajustan la duración del embarazo antes de habilitarlo. Tal vez otro mod ya haga lo mismo. [Por defecto: falso]" />
+		<string id="CGFR_yvgrrQcd" text="Ajustar la Duración del Embarazo" />
+		<string id="CGFR_DlU01AjN" text="Ajusta el número de días que toma para que nazcan los niños. [Por defecto: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Verificación de la Cantidad de Rasgos del Niño" />
+		<string id="CGFR_kJimhLwp" text="¿Cuántos rasgos debe tener un niño para que este mod deje de verificar si se puede agregar un nuevo rasgo? [Por defecto: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

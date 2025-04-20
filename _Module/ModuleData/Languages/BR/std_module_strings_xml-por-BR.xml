@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Português (BR)" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Crescimento Acelerado de Crianças Redux carregado com sucesso." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} ganhou o traço {randomTrait.Name} com nível {randomTraitLevel}!" />
+		<string id="CGFR_YYayWvdK" text="Crescimento Acelerado de Crianças Redux" />
+		<string id="CGFR_5GjemDpY" text="Configurações de Taxa de Crescimento Infantil" />
+		<string id="CGFR_xpz8K0H5" text="Taxa de crescimento" />
+		<string id="CGFR_1ZWhgRlk" text="Taxa de crescimento infantil. 1 = taxa normal; 2 = duas vezes mais rápido; 3 = três vezes mais rápido e assim por diante. [Padrão: 2]" />
+		<string id="CGFR_86Zt3waL" text="Quando o Herói Alcança a Maioridade?" />
+		<string id="CGFR_Aog3zurZ" text="Informe a este mod quando as crianças alcançarão a maioridade. Por quê? Porque se você usar o mod 'Bannerlord Expanded - Children Expanded', há uma configuração 'Herói Alcança a Maioridade', defina esta configuração igual àquela. [Padrão: 18]" />
+		<string id="CGFR_88NRzszQ" text="Apenas Crianças do Jogador" />
+		<string id="CGFR_s9e0XtHk" text="O mod afeta apenas a taxa de crescimento das crianças do jogador. [Padrão: falso]" />
+		<string id="CGFR_MYAPs8YR" text="Crescimento Instantâneo de Crianças" />
+		<string id="CGFR_vMl3gSRM" text="As crianças crescerão até a idade adulta instantaneamente. [Padrão: falso]" />
+		<string id="CGFR_fdWNNbDe" text="Afetar Todos" />
+		<string id="CGFR_XFONu6ZR" text="A taxa de crescimento afeta todas as crianças e todos os adultos. [Padrão: falso]" />
+		<string id="CGFR_IXejEQz9" text="Traços Aleatórios" />
+		<string id="CGFR_LAO16M20" text="Traços Aleatórios para Crianças do Jogador" />
+		<string id="CGFR_7aDvIEFA" text="Habilita traços aleatórios para crianças do jogador. [Padrão: falso]" />
+		<string id="CGFR_P7mRMhWb" text="Chance de Traço" />
+		<string id="CGFR_eF4AlwLL" text="Chance de as crianças ganharem um traço aleatório (em porcentagem). [Padrão: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Dias Entre o Próximo Traço Poder Ser Adicionado" />
+		<string id="CGFR_nOUVxHZI" text="Quantos dias devem passar desde que o último traço foi adicionado antes de tentar adicionar o próximo traço? Lembre-se de que, para o próximo traço ser adicionado, o valor de 'Chance de Traço' deve ser atingido. [Padrão: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Duração da Gravidez (Patch Harmony)" />
+		<string id="CGFR_daNt7nlf" text="Habilitar Duração Ajustável da Gravidez" />
+		<string id="CGFR_WcwRhJm0" text="Deve ser habilitado para que o controle deslizante abaixo funcione. Este recurso habilitará o patch Harmony Postfix, então verifique com seus outros mods que ajustam a duração da gravidez antes de habilitá-lo. Talvez algum outro mod já faça a mesma coisa. [Padrão: falso]" />
+		<string id="CGFR_yvgrrQcd" text="Ajustar Duração da Gravidez" />
+		<string id="CGFR_DlU01AjN" text="Ajuste o número de dias necessários para que as crianças nasçam. [Padrão: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Verificação de Contagem de Traços da Criança" />
+		<string id="CGFR_kJimhLwp" text="Quantos traços uma criança precisa ter para que este mod pare de verificar se um novo traço pode ser adicionado? [Padrão: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

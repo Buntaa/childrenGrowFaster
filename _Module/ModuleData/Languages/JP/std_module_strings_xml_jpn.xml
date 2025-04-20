@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="日本語" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="子供の成長が早くなる Redux が正常に読み込まれました。" />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} が特性 {randomTrait.Name} をレベル {randomTraitLevel} で獲得しました！" />
+		<string id="CGFR_YYayWvdK" text="子供の成長が早くなる Redux" />
+		<string id="CGFR_5GjemDpY" text="子供の成長率設定" />
+		<string id="CGFR_xpz8K0H5" text="成長率" />
+		<string id="CGFR_1ZWhgRlk" text="子供の成長率。1 = 通常の速度、2 = 2倍の速度、3 = 3倍の速度など。[デフォルト: 2]" />
+		<string id="CGFR_86Zt3waL" text="英雄が成人するのはいつですか？" />
+		<string id="CGFR_Aog3zurZ" text="このモッドに子供が成人する年齢を知らせてください。なぜですか？『Bannerlord Expanded - Children Expanded』モッドを使用している場合、『英雄が成人する』という設定があります。この設定を同じにしてください。[デフォルト: 18]" />
+		<string id="CGFR_88NRzszQ" text="プレイヤーの子供のみ影響" />
+		<string id="CGFR_s9e0XtHk" text="モッドはプレイヤーの子供の成長率にのみ影響します。[デフォルト: 偽]" />
+		<string id="CGFR_MYAPs8YR" text="子供の即時成長" />
+		<string id="CGFR_vMl3gSRM" text="子供は即座に成人します。[デフォルト: 偽]" />
+		<string id="CGFR_fdWNNbDe" text="全員に影響" />
+		<string id="CGFR_XFONu6ZR" text="成長率はすべての子供とすべての大人に影響します。[デフォルト: 偽]" />
+		<string id="CGFR_IXejEQz9" text="ランダム特性" />
+		<string id="CGFR_LAO16M20" text="プレイヤーの子供のランダム特性" />
+		<string id="CGFR_7aDvIEFA" text="プレイヤーの子供にランダム特性を有効にします。[デフォルト: 偽]" />
+		<string id="CGFR_P7mRMhWb" text="特性の確率" />
+		<string id="CGFR_eF4AlwLL" text="子供がランダムな特性を獲得する確率（パーセント）。[デフォルト: 5]" />
+		<string id="CGFR_RoM13YnQ" text="次の特性を追加できるまでの日数" />
+		<string id="CGFR_nOUVxHZI" text="最後に特性が追加されてから次の特性を追加するまでに何日が経過する必要がありますか？次の特性を追加するには、『特性の確率』の値を満たす必要があることに注意してください。[デフォルト: 10]" />
+		<string id="CGFR_vF2aVt8N" text="妊娠期間（Harmony パッチ）" />
+		<string id="CGFR_daNt7nlf" text="調整可能な妊娠期間を有効にする" />
+		<string id="CGFR_WcwRhJm0" text="以下のスライダーを機能させるには有効にする必要があります。この機能は Harmony Postfix パッチを有効にするため、妊娠期間を調整する他のモッドと競合しないか確認してください。すでに同じことを行うモッドがあるかもしれません。[デフォルト: 偽]" />
+		<string id="CGFR_yvgrrQcd" text="妊娠期間を調整する" />
+		<string id="CGFR_DlU01AjN" text="子供が生まれるまでに必要な日数を調整します。[デフォルト: 36]" />
+		<string id="CGFR_DBnFt8A9" text="子供の特性数チェック" />
+		<string id="CGFR_kJimhLwp" text="子供が新しい特性を追加できるかどうかをこのモッドが確認しなくなるには、子供がいくつの特性を持つ必要がありますか？[デフォルト: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

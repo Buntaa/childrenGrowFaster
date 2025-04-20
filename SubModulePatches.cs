@@ -6,7 +6,7 @@ using TaleWorlds.MountAndBlade;
 using MCM.Abstractions.Base.Global;
 using TaleWorlds.Library;
 
-namespace childrenGrowFaster
+namespace ChildrenGrowFasterRedux
 {
     [HarmonyPatch(typeof(DefaultPregnancyModel), nameof(DefaultPregnancyModel.PregnancyDurationInDays), MethodType.Getter)]
     public static class AdjustPregnancyDuration
@@ -24,7 +24,7 @@ namespace childrenGrowFaster
             }
             catch (Exception e)
             {
-                InformationManager.DisplayMessage(new InformationMessage("childrenGrowFaster: " + e.Message));
+                InformationManager.DisplayMessage(new InformationMessage("Children Grow Faster Redux: " + e.Message));
             }
         }
     }

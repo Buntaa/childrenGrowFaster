@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="儿童快速成长 重制版 加载成功。" />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} 获得了特性 {randomTrait.Name}，等级为 {randomTraitLevel}！" />
+		<string id="CGFR_YYayWvdK" text="儿童快速成长 重制版" />
+		<string id="CGFR_5GjemDpY" text="儿童成长速度设置" />
+		<string id="CGFR_xpz8K0H5" text="增长率" />
+		<string id="CGFR_1ZWhgRlk" text="儿童生长速度。1 = 正常速度；2 = 两倍；3 = 三倍，以此类推。[默认值：2]" />
+		<string id="CGFR_86Zt3waL" text="英雄成年时的年龄？" />
+		<string id="CGFR_Aog3zurZ" text="让此模组知道儿童成年时的年龄。为什么？因为如果您使用了 'Bannerlord Expanded - Children Expanded' 模组，其中有一个设置 '英雄成年时的年龄'，请将此设置与该设置保持一致。[默认值: 18]" />
+		<string id="CGFR_88NRzszQ" text="仅影响玩家的孩子" />
+		<string id="CGFR_s9e0XtHk" text="模组仅影响玩家孩子的成长速度。[默认值: 假]" />
+		<string id="CGFR_MYAPs8YR" text="儿童即时成长" />
+		<string id="CGFR_vMl3gSRM" text="儿童将立即成长为成年人。[默认值: 假]" />
+		<string id="CGFR_fdWNNbDe" text="影响所有人" />
+		<string id="CGFR_XFONu6ZR" text="成长速度影响所有儿童和所有成年人。[默认值: 假]" />
+		<string id="CGFR_IXejEQz9" text="随机特性" />
+		<string id="CGFR_LAO16M20" text="玩家孩子的随机特性" />
+		<string id="CGFR_7aDvIEFA" text="为玩家的孩子启用随机特性。[默认值: 假]" />
+		<string id="CGFR_P7mRMhWb" text="特性概率" />
+		<string id="CGFR_eF4AlwLL" text="儿童获得随机特性的概率（以百分比表示）。[默认值: 5]" />
+		<string id="CGFR_RoM13YnQ" text="添加下一个特性之间的天数" />
+		<string id="CGFR_nOUVxHZI" text="自上次添加特性以来需要经过多少天才能尝试添加下一个特性？请记住，要添加下一个特性，必须满足“特性概率”值。[默认值: 10]" />
+		<string id="CGFR_vF2aVt8N" text="怀孕时长（Harmony 补丁）" />
+		<string id="CGFR_daNt7nlf" text="启用可调节的怀孕时长" />
+		<string id="CGFR_WcwRhJm0" text="必须启用此功能才能使用下面的滑块。此功能将启用 Harmony Postfix 补丁，因此在启用之前，请检查是否有其他模组调整了怀孕时长。可能已经有其他模组实现了相同的功能。[默认值: 假]" />
+		<string id="CGFR_yvgrrQcd" text="调整怀孕时长" />
+		<string id="CGFR_DlU01AjN" text="调整孩子出生所需的天数。[默认值: 36]" />
+		<string id="CGFR_DBnFt8A9" text="儿童特性数量检查" />
+		<string id="CGFR_kJimhLwp" text="儿童需要拥有多少个特性，模组才会停止检查是否可以添加新特性？[默认值: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

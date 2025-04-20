@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Deutsch" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Kinder wachsen schneller Neuauflage erfolgreich geladen." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} hat die Eigenschaft {randomTrait.Name} mit Stufe {randomTraitLevel} erhalten!" />
+		<string id="CGFR_YYayWvdK" text="Kinder wachsen schneller Neuauflage" />
+		<string id="CGFR_5GjemDpY" text="Einstellungen für die Wachstumsrate von Kindern" />
+		<string id="CGFR_xpz8K0H5" text="Wachstumsrate" />
+		<string id="CGFR_1ZWhgRlk" text="Wachstumsrate bei Kindern. 1 = normale Rate; 2 = doppelt so schnell; 3 = dreimal so schnell usw. [Standard: 2]" />
+		<string id="CGFR_86Zt3waL" text="Wann wird der Held volljährig?" />
+		<string id="CGFR_Aog3zurZ" text="Teilen Sie diesem Mod mit, wann Kinder volljährig werden. Warum? Wenn Sie den Mod 'Bannerlord Expanded - Children Expanded' verwenden, gibt es eine Einstellung 'Held wird volljährig'. Stellen Sie diese Einstellung genauso ein wie diese. [Standard: 18]" />
+		<string id="CGFR_88NRzszQ" text="Nur Kinder des Spielers beeinflussen" />
+		<string id="CGFR_s9e0XtHk" text="Mod beeinflusst nur die Wachstumsrate der Kinder des Spielers. [Standard: falsch]" />
+		<string id="CGFR_MYAPs8YR" text="Sofortiges Wachstum von Kindern" />
+		<string id="CGFR_vMl3gSRM" text="Kinder werden sofort erwachsen. [Standard: falsch]" />
+		<string id="CGFR_fdWNNbDe" text="Alle beeinflussen" />
+		<string id="CGFR_XFONu6ZR" text="Die Wachstumsrate beeinflusst alle Kinder und alle Erwachsenen. [Standard: falsch]" />
+		<string id="CGFR_IXejEQz9" text="Zufällige Eigenschaften" />
+		<string id="CGFR_LAO16M20" text="Zufällige Eigenschaften für Kinder des Spielers" />
+		<string id="CGFR_7aDvIEFA" text="Aktiviert zufällige Eigenschaften für Kinder des Spielers. [Standard: falsch]" />
+		<string id="CGFR_P7mRMhWb" text="Eigenschaftswahrscheinlichkeit" />
+		<string id="CGFR_eF4AlwLL" text="Wahrscheinlichkeit, dass Kinder eine zufällige Eigenschaft erhalten (in Prozent). [Standard: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Tage zwischen dem Hinzufügen der nächsten Eigenschaft" />
+		<string id="CGFR_nOUVxHZI" text="Wie viele Tage müssen seit der letzten hinzugefügten Eigenschaft vergehen, bevor versucht wird, die nächste Eigenschaft hinzuzufügen? Beachten Sie, dass der Wert 'Eigenschaftswahrscheinlichkeit' erfüllt sein muss, damit die nächste Eigenschaft hinzugefügt werden kann. [Standard: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Schwangerschaftsdauer (Harmony-Patch)" />
+		<string id="CGFR_daNt7nlf" text="Anpassbare Schwangerschaftsdauer aktivieren" />
+		<string id="CGFR_WcwRhJm0" text="Muss aktiviert sein, damit der untenstehende Schieberegler funktioniert. Diese Funktion aktiviert den Harmony-Postfix-Patch. Überprüfen Sie daher vor der Aktivierung, ob andere Mods die Schwangerschaftsdauer anpassen. Möglicherweise macht ein anderer Mod bereits dasselbe. [Standard: falsch]" />
+		<string id="CGFR_yvgrrQcd" text="Schwangerschaftsdauer anpassen" />
+		<string id="CGFR_DlU01AjN" text="Passen Sie die Anzahl der Tage an, die für die Geburt von Kindern erforderlich sind. [Standard: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Überprüfung der Anzahl der Eigenschaften eines Kindes" />
+		<string id="CGFR_kJimhLwp" text="Wie viele Eigenschaften muss ein Kind haben, damit dieser Mod aufhört zu überprüfen, ob eine neue Eigenschaft hinzugefügt werden kann? [Standard: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

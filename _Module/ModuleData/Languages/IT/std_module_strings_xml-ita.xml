@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Italiano" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Crescita Rapida dei Bambini Redux caricato con successo." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} ha acquisito il tratto {randomTrait.Name} con livello {randomTraitLevel}!" />
+		<string id="CGFR_YYayWvdK" text="Crescita Rapida dei Bambini Redux" />
+		<string id="CGFR_5GjemDpY" text="Impostazioni del tasso di crescita dei bambini" />
+		<string id="CGFR_xpz8K0H5" text="Tasso di crescita" />
+		<string id="CGFR_1ZWhgRlk" text="Tasso di crescita dei bambini. 1 = tasso normale; 2 = due volte più veloce; 3 = tasso di crescita tre volte più veloce e così via. [Default: 2]" />
+		<string id="CGFR_86Zt3waL" text="Quando l'eroe raggiunge la maggiore età?" />
+		<string id="CGFR_Aog3zurZ" text="Fai sapere a questa mod quando i bambini raggiungeranno la maggiore età. Perché? Perché se usi la mod 'Bannerlord Expanded - Children Expanded', c'è un'impostazione 'L'eroe raggiunge la maggiore età', rendi questa impostazione uguale a quella. [Predefinito: 18]" />
+		<string id="CGFR_88NRzszQ" text="Influenza solo i figli del giocatore" />
+		<string id="CGFR_s9e0XtHk" text="La mod influenza solo il tasso di crescita dei figli del giocatore. [Predefinito: falso]" />
+		<string id="CGFR_MYAPs8YR" text="Crescita istantanea dei bambini" />
+		<string id="CGFR_vMl3gSRM" text="I bambini cresceranno fino all'età adulta istantaneamente. [Predefinito: falso]" />
+		<string id="CGFR_fdWNNbDe" text="Influenza tutti" />
+		<string id="CGFR_XFONu6ZR" text="Il tasso di crescita influenza tutti i bambini e tutti gli adulti. [Predefinito: falso]" />
+		<string id="CGFR_IXejEQz9" text="Tratti casuali" />
+		<string id="CGFR_LAO16M20" text="Tratti casuali per i figli del giocatore" />
+		<string id="CGFR_7aDvIEFA" text="Abilita tratti casuali per i figli del giocatore. [Predefinito: falso]" />
+		<string id="CGFR_P7mRMhWb" text="Probabilità di tratto" />
+		<string id="CGFR_eF4AlwLL" text="Probabilità che i bambini acquisiscano un tratto casuale (in percentuale). [Predefinito: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Giorni tra l'aggiunta del prossimo tratto" />
+		<string id="CGFR_nOUVxHZI" text="Quanti giorni devono passare dall'ultimo tratto aggiunto prima di tentare di aggiungere il prossimo tratto? Tieni presente che per aggiungere il prossimo tratto, il valore di 'Probabilità di tratto' deve essere soddisfatto. [Predefinito: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Durata della gravidanza (Patch Harmony)" />
+		<string id="CGFR_daNt7nlf" text="Abilita durata della gravidanza regolabile" />
+		<string id="CGFR_WcwRhJm0" text="Deve essere abilitato affinché il cursore sottostante funzioni. Questa funzione abiliterà la patch Harmony Postfix, quindi controlla con le altre mod che regolano la durata della gravidanza prima di abilitarla. Forse un'altra mod fa già la stessa cosa. [Predefinito: falso]" />
+		<string id="CGFR_yvgrrQcd" text="Regola la durata della gravidanza" />
+		<string id="CGFR_DlU01AjN" text="Regola il numero di giorni necessari per la nascita dei bambini. [Predefinito: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Verifica del numero di tratti del bambino" />
+		<string id="CGFR_kJimhLwp" text="Quanti tratti deve avere un bambino affinché questa mod smetta di controllare se è possibile aggiungere un nuovo tratto? [Predefinito: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

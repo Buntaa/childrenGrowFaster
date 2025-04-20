@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Polski" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Dzieci Rosną Szybciej Redux załadowano pomyślnie." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} zdobył cechę {randomTrait.Name} na poziomie {randomTraitLevel}!" />
+		<string id="CGFR_YYayWvdK" text="Dzieci Rosną Szybciej Redux" />
+		<string id="CGFR_5GjemDpY" text="Ustawienia tempa wzrostu dzieci" />
+		<string id="CGFR_xpz8K0H5" text="Tempo wzrostu" />
+		<string id="CGFR_1ZWhgRlk" text="Tempo wzrostu dzieci. 1 = normalne tempo; 2 = dwukrotnie szybsze; 3 = trzykrotnie szybsze tempo wzrostu itd. [Domyślnie: 2]" />
+		<string id="CGFR_86Zt3waL" text="Kiedy bohater osiąga pełnoletność?" />
+		<string id="CGFR_Aog3zurZ" text="Poinformuj ten mod, kiedy dzieci osiągną pełnoletność. Dlaczego? Ponieważ jeśli używasz moda 'Bannerlord Expanded - Children Expanded', istnieje ustawienie 'Bohater osiąga pełnoletność', ustaw je tak samo jak tutaj. [Domyślnie: 18]" />
+		<string id="CGFR_88NRzszQ" text="Wpływ tylko na dzieci gracza" />
+		<string id="CGFR_s9e0XtHk" text="Mod wpływa tylko na tempo wzrostu dzieci gracza. [Domyślnie: fałsz]" />
+		<string id="CGFR_MYAPs8YR" text="Natychmiastowy wzrost dzieci" />
+		<string id="CGFR_vMl3gSRM" text="Dzieci natychmiast dorosną. [Domyślnie: fałsz]" />
+		<string id="CGFR_fdWNNbDe" text="Wpływ na wszystkich" />
+		<string id="CGFR_XFONu6ZR" text="Tempo wzrostu wpływa na wszystkie dzieci i wszystkich dorosłych. [Domyślnie: fałsz]" />
+		<string id="CGFR_IXejEQz9" text="Losowe cechy" />
+		<string id="CGFR_LAO16M20" text="Losowe cechy dla dzieci gracza" />
+		<string id="CGFR_7aDvIEFA" text="Włącza losowe cechy dla dzieci gracza. [Domyślnie: fałsz]" />
+		<string id="CGFR_P7mRMhWb" text="Szansa na cechę" />
+		<string id="CGFR_eF4AlwLL" text="Szansa, że dzieci zdobędą losową cechę (w procentach). [Domyślnie: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Dni między dodaniem kolejnej cechy" />
+		<string id="CGFR_nOUVxHZI" text="Ile dni musi minąć od ostatnio dodanej cechy, zanim będzie można dodać kolejną? Pamiętaj, że aby dodać kolejną cechę, musi zostać spełniona wartość 'Szansa na cechę'. [Domyślnie: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Czas trwania ciąży (Harmony Patch)" />
+		<string id="CGFR_daNt7nlf" text="Włącz regulowany czas trwania ciąży" />
+		<string id="CGFR_WcwRhJm0" text="Musi być włączone, aby poniższy suwak działał. Ta funkcja włączy Harmony Postfix Patch, więc sprawdź, czy inne mody, które regulują czas trwania ciąży, nie powodują konfliktów. Może inny mod już to robi. [Domyślnie: fałsz]" />
+		<string id="CGFR_yvgrrQcd" text="Dostosuj czas trwania ciąży" />
+		<string id="CGFR_DlU01AjN" text="Dostosuj liczbę dni potrzebnych do narodzin dzieci. [Domyślnie: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Sprawdzanie liczby cech dziecka" />
+		<string id="CGFR_kJimhLwp" text="Ile cech musi mieć dziecko, aby ten mod przestał sprawdzać, czy można dodać nową cechę? [Domyślnie: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

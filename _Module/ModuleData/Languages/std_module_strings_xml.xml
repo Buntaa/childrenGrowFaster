@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="English" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Children Grow Faster Redux loaded succesfully." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name} has gained the trait {randomTrait.Name} with level {randomTraitLevel}!" />
+		<string id="CGFR_YYayWvdK" text="Children Grow Faster Redux" />
+		<string id="CGFR_5GjemDpY" text="Children Growth Rate Settings" />
+		<string id="CGFR_xpz8K0H5" text="Growth Rate" />
+		<string id="CGFR_1ZWhgRlk" text="Children growth rate. 1 = normal rate; 2 = twice as fast; 3 = three times as fast growth rate and so on. [Default: 2]" />
+		<string id="CGFR_86Zt3waL" text="When Hero Comes of Age?" />
+		<string id="CGFR_Aog3zurZ" text="Let this mod know when children will come of age. Why? Because if you use 'Bannerlord Expanded - Children Expanded' mod, there is a setting 'Hero Comes of Age', make this setting same as that one. [Default: 18]" />
+		<string id="CGFR_88NRzszQ" text="Affect Player Children Only" />
+		<string id="CGFR_s9e0XtHk" text="Mod only affects growth rate of player children. [Default: false]" />
+		<string id="CGFR_MYAPs8YR" text="Instant Children Growth" />
+		<string id="CGFR_vMl3gSRM" text="Children will grow to adulthood instantly. [Default: false]" />
+		<string id="CGFR_fdWNNbDe" text="Affect Everyone" />
+		<string id="CGFR_XFONu6ZR" text="Growth rate affects all children and all adults. [Default: false]" />
+		<string id="CGFR_IXejEQz9" text="Random Traits" />
+		<string id="CGFR_LAO16M20" text="Random Traits For Player Children" />
+		<string id="CGFR_7aDvIEFA" text="Enables random traits for player children. [Default: false]" />
+		<string id="CGFR_P7mRMhWb" text="Trait Chance" />
+		<string id="CGFR_eF4AlwLL" text="Chance of children gaining a random trait (in percent). [Default: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Days Between Next Trait Can Be Added" />
+		<string id="CGFR_nOUVxHZI" text="How many days must pass since the last trait was added before attempting to add the next trait? Keep in mind that for the next trait to be added, the 'Trait Chance' value must be met. [Default: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Pregnancy Duration (Harmony Patch)" />
+		<string id="CGFR_daNt7nlf" text="Enable Adjustable Pregnancy Duration" />
+		<string id="CGFR_WcwRhJm0" text="Must be enabled for the below slider to work. This feature will enable Harmony Postfix patch so please check with your other mods that adjusts pregnancy duration before enabling it. Maybe some other mod already does the same thing. [Default: false]" />
+		<string id="CGFR_yvgrrQcd" text="Adjust Pregnancy Duration" />
+		<string id="CGFR_DlU01AjN" text="Adjust the number of days it takes for children to be born. [Default: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Child Trait Count Check" />
+		<string id="CGFR_kJimhLwp" text="How many traits does a child need to have for this mod to stop checking if a new trait can be added? [Default: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

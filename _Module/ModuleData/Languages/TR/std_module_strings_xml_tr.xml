@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Türkçe" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="Çocuklar Daha Hızlı Büyür Yeniden Yapım başarıyla yüklendi." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name}, {randomTrait.Name} özelliğini {randomTraitLevel} seviyesinde kazandı!" />
+		<string id="CGFR_YYayWvdK" text="Çocuklar Daha Hızlı Büyür Yeniden Yapım" />
+		<string id="CGFR_5GjemDpY" text="Çocuk Büyüme Hızı Ayarları" />
+		<string id="CGFR_xpz8K0H5" text="Büyüme Hızı" />
+		<string id="CGFR_1ZWhgRlk" text="Çocukların büyüme hızı. 1 = normal hız; 2 = iki kat hızlı; 3 = üç kat hızlı büyüme hızı ve bu şekilde devam eder. [Varsayılan: 2]" />
+		<string id="CGFR_86Zt3waL" text="Kahraman Ne Zaman Reşit Olur?" />
+		<string id="CGFR_Aog3zurZ" text="Bu modun çocukların ne zaman reşit olacağını bilmesini sağlayın. Neden? Çünkü 'Bannerlord Expanded - Children Expanded' modunu kullanıyorsanız, 'Kahraman Reşit Olur' adlı bir ayar vardır, bu ayarı bununla aynı yapın. [Varsayılan: 18]" />
+		<string id="CGFR_88NRzszQ" text="Sadece Oyuncunun Çocuklarını Etkiler" />
+		<string id="CGFR_s9e0XtHk" text="Mod yalnızca oyuncunun çocuklarının büyüme hızını etkiler. [Varsayılan: yanlış]" />
+		<string id="CGFR_MYAPs8YR" text="Anında Çocuk Büyümesi" />
+		<string id="CGFR_vMl3gSRM" text="Çocuklar anında yetişkinliğe ulaşır. [Varsayılan: yanlış]" />
+		<string id="CGFR_fdWNNbDe" text="Herkesi Etkiler" />
+		<string id="CGFR_XFONu6ZR" text="Büyüme hızı tüm çocukları ve tüm yetişkinleri etkiler. [Varsayılan: yanlış]" />
+		<string id="CGFR_IXejEQz9" text="Rastgele Özellikler" />
+		<string id="CGFR_LAO16M20" text="Oyuncunun Çocukları İçin Rastgele Özellikler" />
+		<string id="CGFR_7aDvIEFA" text="Oyuncunun çocukları için rastgele özellikleri etkinleştirir. [Varsayılan: yanlış]" />
+		<string id="CGFR_P7mRMhWb" text="Özellik Şansı" />
+		<string id="CGFR_eF4AlwLL" text="Çocukların rastgele bir özellik kazanma şansı (yüzde olarak). [Varsayılan: 5]" />
+		<string id="CGFR_RoM13YnQ" text="Bir Sonraki Özelliğin Eklenebileceği Günler" />
+		<string id="CGFR_nOUVxHZI" text="Son eklenen özellikten sonra bir sonraki özelliği eklemeye çalışmadan önce kaç gün geçmesi gerektiğini ayarlar. Unutmayın, bir sonraki özelliğin eklenmesi için 'Özellik Şansı' değeri karşılanmalıdır. [Varsayılan: 10]" />
+		<string id="CGFR_vF2aVt8N" text="Hamilelik Süresi (Harmony Yaması)" />
+		<string id="CGFR_daNt7nlf" text="Ayarlanabilir Hamilelik Süresini Etkinleştir" />
+		<string id="CGFR_WcwRhJm0" text="Aşağıdaki kaydırıcının çalışması için etkinleştirilmelidir. Bu özellik Harmony Postfix yamasını etkinleştirecektir, bu nedenle hamilelik süresini ayarlayan diğer modlarınızla çakışmadığından emin olun. Belki başka bir mod zaten aynı şeyi yapıyordur. [Varsayılan: yanlış]" />
+		<string id="CGFR_yvgrrQcd" text="Hamilelik Süresini Ayarla" />
+		<string id="CGFR_DlU01AjN" text="Çocukların doğması için gereken gün sayısını ayarlayın. [Varsayılan: 36]" />
+		<string id="CGFR_DBnFt8A9" text="Çocuk Özellik Sayısı Kontrolü" />
+		<string id="CGFR_kJimhLwp" text="Bu modun yeni bir özellik eklenip eklenemeyeceğini kontrol etmeyi bırakması için bir çocuğun kaç özelliğe sahip olması gerekir? [Varsayılan: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>

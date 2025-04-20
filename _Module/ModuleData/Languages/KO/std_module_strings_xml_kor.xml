@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="한국어" />
+	</tags>
+	<strings>
+		<string id="CGFR_ufs59VVy" text="아이들이 더 빨리 자라는 Redux가 성공적으로 로드되었습니다." />
+		<string id="CGFR_S7CDl3Ac" text="{randomChild.Name}이(가) {randomTrait.Name} 특성을 레벨 {randomTraitLevel}로 획득했습니다!" />
+		<string id="CGFR_YYayWvdK" text="아이들이 더 빨리 자라는 Redux" />
+		<string id="CGFR_5GjemDpY" text="아이들 성장 속도 설정" />
+		<string id="CGFR_xpz8K0H5" text="성장률" />
+		<string id="CGFR_1ZWhgRlk" text="어린이의 성장 속도. 1 = 정상 속도, 2 = 두 배 빠른 속도, 3 = 세 배 빠른 성장 속도 등. [기본값: 2]" />
+		<string id="CGFR_86Zt3waL" text="영웅이 성인이 되는 나이는?" />
+		<string id="CGFR_Aog3zurZ" text="이 모드에 아이들이 성인이 되는 나이를 알려주세요. 왜냐하면 'Bannerlord Expanded - Children Expanded' 모드를 사용하는 경우 '영웅이 성인이 되는 나이'라는 설정이 있습니다. 이 설정을 동일하게 설정하세요. [기본값: 18]" />
+		<string id="CGFR_88NRzszQ" text="플레이어의 아이들만 영향을 받음" />
+		<string id="CGFR_s9e0XtHk" text="모드는 플레이어 아이들의 성장 속도에만 영향을 미칩니다. [기본값: 거짓]" />
+		<string id="CGFR_MYAPs8YR" text="즉시 아이들 성장" />
+		<string id="CGFR_vMl3gSRM" text="아이들이 즉시 성인이 됩니다. [기본값: 거짓]" />
+		<string id="CGFR_fdWNNbDe" text="모두에게 영향" />
+		<string id="CGFR_XFONu6ZR" text="성장 속도는 모든 아이들과 모든 성인들에게 영향을 미칩니다. [기본값: 거짓]" />
+		<string id="CGFR_IXejEQz9" text="랜덤 특성" />
+		<string id="CGFR_LAO16M20" text="플레이어 아이들의 랜덤 특성" />
+		<string id="CGFR_7aDvIEFA" text="플레이어 아이들에게 랜덤 특성을 활성화합니다. [기본값: 거짓]" />
+		<string id="CGFR_P7mRMhWb" text="특성 확률" />
+		<string id="CGFR_eF4AlwLL" text="아이들이 랜덤 특성을 얻을 확률(백분율). [기본값: 5]" />
+		<string id="CGFR_RoM13YnQ" text="다음 특성을 추가할 수 있는 일수" />
+		<string id="CGFR_nOUVxHZI" text="마지막 특성이 추가된 이후 다음 특성을 추가하려면 몇 일이 지나야 합니까? 다음 특성을 추가하려면 '특성 확률' 값이 충족되어야 한다는 점을 기억하세요. [기본값: 10]" />
+		<string id="CGFR_vF2aVt8N" text="임신 기간 (Harmony 패치)" />
+		<string id="CGFR_daNt7nlf" text="조정 가능한 임신 기간 활성화" />
+		<string id="CGFR_WcwRhJm0" text="아래 슬라이더가 작동하려면 활성화해야 합니다. 이 기능은 Harmony Postfix 패치를 활성화하므로 임신 기간을 조정하는 다른 모드와 충돌하지 않는지 확인하세요. 이미 동일한 작업을 수행하는 다른 모드가 있을 수 있습니다. [기본값: 거짓]" />
+		<string id="CGFR_yvgrrQcd" text="임신 기간 조정" />
+		<string id="CGFR_DlU01AjN" text="아이들이 태어나기까지 필요한 일수를 조정합니다. [기본값: 36]" />
+		<string id="CGFR_DBnFt8A9" text="아이들의 특성 수 확인" />
+		<string id="CGFR_kJimhLwp" text="아이들이 새로운 특성을 추가할 수 있는지 확인하지 않으려면 몇 개의 특성을 가져야 합니까? [기본값: 3]" />
+		<string id="CGFR_xJ1yLMuy" text="" />
+		<string id="CGFR_IOUT6bW1" text="" />
+	</strings>
+</base>
