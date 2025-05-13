@@ -12,7 +12,7 @@ namespace ChildrenGrowFasterRedux
 {
     internal class ChildrenGrowFasterCampaignBehavior : CampaignBehaviorBase
     {
-        public override void RegisterEvents() => CampaignEvents.HourlyTickEvent.AddNonSerializedListener(this, OnDailyTickEvent);
+        public override void RegisterEvents() => CampaignEvents.DailyTickEvent.AddNonSerializedListener(this, OnDailyTickEvent);
 
         public override void SyncData(IDataStore dataStore) { }
 
@@ -57,20 +57,19 @@ namespace ChildrenGrowFasterRedux
         private void ApplyGrowthRateToPlayerChildren()
         {
             LogMessage("ApplyGrowthRateToPlayerChildren() Called.");
-            ApplyGrowthRate(hero => hero.IsChild && (hero.Father == Hero.MainHero || hero.Mother == Hero.MainHero));
+            ApplyGrowthRate(hero => hero.IsChild && hero.Age < settings.WhenHeroComesOfAge && (hero.Father == Hero.MainHero || hero.Mother == Hero.MainHero));
         }
 
         private void ApplyGrowthRateToAllChildren()
         {
             LogMessage("ApplyGrowthRateToAllChildren() Called.");
-            ApplyGrowthRate(hero => hero.IsChild);
+            ApplyGrowthRate(hero => hero.IsChild && hero.Age < settings.WhenHeroComesOfAge);
         }
 
         
 
         private void ApplyGrowthRateToEveryoneElse()
         {
-            float additionalDaysPerDay = settings.GrowthRate;
             ApplyGrowthRate(hero => hero.Age >= settings.WhenHeroComesOfAge);
         }
 
@@ -87,10 +86,7 @@ namespace ChildrenGrowFasterRedux
             float additionalDaysPerDay = settings.GrowthRate;
             foreach (Hero hero in Hero.AllAliveHeroes.Where(heroFilter))
             {
-                if (hero.IsChild && hero.Age < settings.WhenHeroComesOfAge)
-                {
-                    hero.SetBirthDay(hero.BirthDay - CampaignTime.Days(additionalDaysPerDay - 1));
-                }
+                hero.SetBirthDay(hero.BirthDay - CampaignTime.Days(additionalDaysPerDay - 1));
             }
         }
 
