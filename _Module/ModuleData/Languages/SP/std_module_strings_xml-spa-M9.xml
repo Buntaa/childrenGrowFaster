@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="Configuración de la Tasa de Crecimiento de los Niños" />
 		<string id="CGFR_xpz8K0H5" text="Índice de crecimiento" />
 		<string id="CGFR_1ZWhgRlk" text="Tasa de crecimiento infantil. 1 = tasa normal; 2 = el doble de rápido; 3 = el triple de rápido, y así sucesivamente. [Predeterminado: 2]" />
-		<string id="CGFR_86Zt3waL" text="¿Cuándo el Héroe Alcanza la Mayoría de Edad?" />
-		<string id="CGFR_Aog3zurZ" text="Haz saber a este mod cuándo los niños alcanzarán la mayoría de edad. ¿Por qué? Porque si usas el mod 'Bannerlord Expanded - Children Expanded', hay una configuración 'El Héroe Alcanza la Mayoría de Edad', haz que esta configuración sea igual a esa. [Por defecto: 18]" />
 		<string id="CGFR_88NRzszQ" text="Afectar Solo a los Hijos del Jugador" />
 		<string id="CGFR_s9e0XtHk" text="El mod solo afecta la tasa de crecimiento de los hijos del jugador. [Por defecto: falso]" />
 		<string id="CGFR_MYAPs8YR" text="Crecimiento Instantáneo de los Niños" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="Ajusta el número de días que toma para que nazcan los niños. [Por defecto: 36]" />
 		<string id="CGFR_DBnFt8A9" text="Verificación de la Cantidad de Rasgos del Niño" />
 		<string id="CGFR_kJimhLwp" text="¿Cuántos rasgos debe tener un niño para que este mod deje de verificar si se puede agregar un nuevo rasgo? [Por defecto: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="Afectar solo a los hijos del clan del jugador" />
+		<string id="CGFR_IOUT6bW1" text="El mod solo afecta la tasa de crecimiento de los hijos del clan del jugador. Si la opción 'Afectar solo a los hijos del jugador' de abajo también está habilitada, entonces esta opción no funcionará. [Por defecto: falso]" />
 	</strings>
 </base>

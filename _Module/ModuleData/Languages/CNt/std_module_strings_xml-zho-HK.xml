@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="兒童成長速度設置" />
 		<string id="CGFR_xpz8K0H5" text="成長率" />
 		<string id="CGFR_1ZWhgRlk" text="兒童的生長速度。 1 = 正常速率； 2 = 速度快兩倍； 3 = 成長率快三倍，以此類推。 [預設值：2]" />
-		<string id="CGFR_86Zt3waL" text="英雄成年時的年齡？" />
-		<string id="CGFR_Aog3zurZ" text="讓此模組知道兒童成年時的年齡。為什麼？因為如果您使用了 'Bannerlord Expanded - Children Expanded' 模組，其中有一個設置 '英雄成年時的年齡'，請將此設置與該設置保持一致。[默認值: 18]" />
 		<string id="CGFR_88NRzszQ" text="僅影響玩家的孩子" />
 		<string id="CGFR_s9e0XtHk" text="模組僅影響玩家孩子的成長速度。[默認值: 假]" />
 		<string id="CGFR_MYAPs8YR" text="兒童即時成長" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="調整孩子出生所需的天數。[默認值: 36]" />
 		<string id="CGFR_DBnFt8A9" text="兒童特性數量檢查" />
 		<string id="CGFR_kJimhLwp" text="兒童需要擁有多少個特性，模組才會停止檢查是否可以添加新特性？[默認值: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="僅影響玩家氏族的孩子" />
+		<string id="CGFR_IOUT6bW1" text="模組僅影響玩家氏族孩子的成長速度。如果下方「僅影響玩家的孩子」選項也啟用，則此選項將不起作用。[預設值: 假]" />
 	</strings>
 </base>

@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="아이들 성장 속도 설정" />
 		<string id="CGFR_xpz8K0H5" text="성장률" />
 		<string id="CGFR_1ZWhgRlk" text="어린이의 성장 속도. 1 = 정상 속도, 2 = 두 배 빠른 속도, 3 = 세 배 빠른 성장 속도 등. [기본값: 2]" />
-		<string id="CGFR_86Zt3waL" text="영웅이 성인이 되는 나이는?" />
-		<string id="CGFR_Aog3zurZ" text="이 모드에 아이들이 성인이 되는 나이를 알려주세요. 왜냐하면 'Bannerlord Expanded - Children Expanded' 모드를 사용하는 경우 '영웅이 성인이 되는 나이'라는 설정이 있습니다. 이 설정을 동일하게 설정하세요. [기본값: 18]" />
 		<string id="CGFR_88NRzszQ" text="플레이어의 아이들만 영향을 받음" />
 		<string id="CGFR_s9e0XtHk" text="모드는 플레이어 아이들의 성장 속도에만 영향을 미칩니다. [기본값: 거짓]" />
 		<string id="CGFR_MYAPs8YR" text="즉시 아이들 성장" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="아이들이 태어나기까지 필요한 일수를 조정합니다. [기본값: 36]" />
 		<string id="CGFR_DBnFt8A9" text="아이들의 특성 수 확인" />
 		<string id="CGFR_kJimhLwp" text="아이들이 새로운 특성을 추가할 수 있는지 확인하지 않으려면 몇 개의 특성을 가져야 합니까? [기본값: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="플레이어 씨족의 아이들만 영향을 받음" />
+		<string id="CGFR_IOUT6bW1" text="모드는 플레이어 씨족 아이들의 성장 속도에만 영향을 미칩니다. 아래의 '플레이어의 아이들만 영향을 받음' 옵션도 활성화되어 있으면, 이 옵션은 작동하지 않습니다. [기본값: 거짓]" />
 	</strings>
 </base>

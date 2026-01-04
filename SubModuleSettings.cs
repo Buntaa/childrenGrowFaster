@@ -12,13 +12,13 @@ namespace ChildrenGrowFasterRedux
         public override string FolderName => "ChildrenGrowFasterRedux";
         public override string FormatType => "json2";
 
-        [SettingPropertyInteger("{=CGFR_xpz8K0H5}Growth Rate", 1, 100, Order = 0, RequireRestart = false, HintText = "{=CGFR_1ZWhgRlk}Children growth rate. 1 = normal rate; 2 = twice as fast; 3 = three times as fast growth rate and so on. [Default: 2]")]
+        [SettingPropertyFloatingInteger("{=CGFR_xpz8K0H5}Growth Rate", 1.0f, 100.0f, "0.0", Order = 0, RequireRestart = false, HintText = "{=CGFR_1ZWhgRlk}Children growth rate. 1 = normal rate; 2 = twice as fast; 3 = three times as fast growth rate and so on. [Default: 2]")]
         [SettingPropertyGroup("{=CGFR_5GjemDpY}Children Growth Rate Settings", GroupOrder = 0)]
-        public int GrowthRate { get; set; } = 2;
+        public float GrowthRate { get; set; } = 2;
 
-        [SettingPropertyInteger("{=CGFR_86Zt3waL}When Hero Comes of Age?", 10, 18, Order = 1, RequireRestart = false, HintText = "{=CGFR_Aog3zurZ}Let this mod know when children will come of age. Why? Because if you use 'Bannerlord Expanded - Children Expanded' mod, there is a setting 'Hero Comes of Age', make this setting same as that one. [Default: 18]")]
+        [SettingPropertyBool("{=CGFR_xJ1yLMuy}Affect Player Clan Children Only", Order = 1, RequireRestart = false, HintText = "{=CGFR_IOUT6bW1}Mod only affects growth rate of player clan children. If Affect Player Children Only below option is also enabled, then this option will not work. [Default: false]")]
         [SettingPropertyGroup("{=CGFR_5GjemDpY}Children Growth Rate Settings", GroupOrder = 0)]
-        public int WhenHeroComesOfAge { get; set; } = 18;
+        public bool AffectOnlyPlayerClanChildren { get; set; } = false;
 
         [SettingPropertyBool("{=CGFR_88NRzszQ}Affect Player Children Only", Order = 2, RequireRestart = false, HintText = "{=CGFR_s9e0XtHk}Mod only affects growth rate of player children. [Default: false]")]
         [SettingPropertyGroup("{=CGFR_5GjemDpY}Children Growth Rate Settings", GroupOrder = 0)]

@@ -19,7 +19,6 @@ namespace ChildrenGrowFasterRedux
 
             _harmony = new Harmony("ChildrenGrowFasterRedux");
             _harmony.PatchAll();
-            InformationManager.DisplayMessage(new InformationMessage(new TextObject("{=CGRR_ufs59VVy}Children Grow Faster Redux loaded succesfully.").ToString(), Colors.Green));
         }
 
         protected override void OnGameStart(Game game, IGameStarter gameStarterObject)

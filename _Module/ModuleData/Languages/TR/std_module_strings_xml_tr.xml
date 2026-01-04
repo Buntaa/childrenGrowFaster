@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="Çocuk Büyüme Hızı Ayarları" />
 		<string id="CGFR_xpz8K0H5" text="Büyüme Hızı" />
 		<string id="CGFR_1ZWhgRlk" text="Çocukların büyüme hızı. 1 = normal hız; 2 = iki kat hızlı; 3 = üç kat hızlı büyüme hızı ve bu şekilde devam eder. [Varsayılan: 2]" />
-		<string id="CGFR_86Zt3waL" text="Kahraman Ne Zaman Reşit Olur?" />
-		<string id="CGFR_Aog3zurZ" text="Bu modun çocukların ne zaman reşit olacağını bilmesini sağlayın. Neden? Çünkü 'Bannerlord Expanded - Children Expanded' modunu kullanıyorsanız, 'Kahraman Reşit Olur' adlı bir ayar vardır, bu ayarı bununla aynı yapın. [Varsayılan: 18]" />
 		<string id="CGFR_88NRzszQ" text="Sadece Oyuncunun Çocuklarını Etkiler" />
 		<string id="CGFR_s9e0XtHk" text="Mod yalnızca oyuncunun çocuklarının büyüme hızını etkiler. [Varsayılan: yanlış]" />
 		<string id="CGFR_MYAPs8YR" text="Anında Çocuk Büyümesi" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="Çocukların doğması için gereken gün sayısını ayarlayın. [Varsayılan: 36]" />
 		<string id="CGFR_DBnFt8A9" text="Çocuk Özellik Sayısı Kontrolü" />
 		<string id="CGFR_kJimhLwp" text="Bu modun yeni bir özellik eklenip eklenemeyeceğini kontrol etmeyi bırakması için bir çocuğun kaç özelliğe sahip olması gerekir? [Varsayılan: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="Yalnızca oyuncu klanının çocuklarını etkiler" />
+		<string id="CGFR_IOUT6bW1" text="Mod yalnızca oyuncu klanının çocuklarının büyüme hızını etkiler. Aşağıdaki 'Sadece Oyuncunun Çocuklarını Etkiler' seçeneği de etkinse, bu seçenek çalışmaz. [Varsayılan: yanlış]" />
 	</strings>
 </base>

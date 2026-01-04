@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="Children Growth Rate Settings" />
 		<string id="CGFR_xpz8K0H5" text="Growth Rate" />
 		<string id="CGFR_1ZWhgRlk" text="Children growth rate. 1 = normal rate; 2 = twice as fast; 3 = three times as fast growth rate and so on. [Default: 2]" />
-		<string id="CGFR_86Zt3waL" text="When Hero Comes of Age?" />
-		<string id="CGFR_Aog3zurZ" text="Let this mod know when children will come of age. Why? Because if you use 'Bannerlord Expanded - Children Expanded' mod, there is a setting 'Hero Comes of Age', make this setting same as that one. [Default: 18]" />
 		<string id="CGFR_88NRzszQ" text="Affect Player Children Only" />
 		<string id="CGFR_s9e0XtHk" text="Mod only affects growth rate of player children. [Default: false]" />
 		<string id="CGFR_MYAPs8YR" text="Instant Children Growth" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="Adjust the number of days it takes for children to be born. [Default: 36]" />
 		<string id="CGFR_DBnFt8A9" text="Child Trait Count Check" />
 		<string id="CGFR_kJimhLwp" text="How many traits does a child need to have for this mod to stop checking if a new trait can be added? [Default: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="Affect Player Clan Children Only" />
+		<string id="CGFR_IOUT6bW1" text="Mod only affects growth rate of player clan children. If Affect Player Children Only below option is also enabled, then this option will not work. [Default: false]" />
 	</strings>
 </base>

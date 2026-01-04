@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="子供の成長率設定" />
 		<string id="CGFR_xpz8K0H5" text="成長率" />
 		<string id="CGFR_1ZWhgRlk" text="子供の成長率。1 = 通常の速度、2 = 2倍の速度、3 = 3倍の速度など。[デフォルト: 2]" />
-		<string id="CGFR_86Zt3waL" text="英雄が成人するのはいつですか？" />
-		<string id="CGFR_Aog3zurZ" text="このモッドに子供が成人する年齢を知らせてください。なぜですか？『Bannerlord Expanded - Children Expanded』モッドを使用している場合、『英雄が成人する』という設定があります。この設定を同じにしてください。[デフォルト: 18]" />
 		<string id="CGFR_88NRzszQ" text="プレイヤーの子供のみ影響" />
 		<string id="CGFR_s9e0XtHk" text="モッドはプレイヤーの子供の成長率にのみ影響します。[デフォルト: 偽]" />
 		<string id="CGFR_MYAPs8YR" text="子供の即時成長" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="子供が生まれるまでに必要な日数を調整します。[デフォルト: 36]" />
 		<string id="CGFR_DBnFt8A9" text="子供の特性数チェック" />
 		<string id="CGFR_kJimhLwp" text="子供が新しい特性を追加できるかどうかをこのモッドが確認しなくなるには、子供がいくつの特性を持つ必要がありますか？[デフォルト: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="プレイヤーの氏族の子供のみ影響" />
+		<string id="CGFR_IOUT6bW1" text="このモッドはプレイヤー氏族の子供の成長率のみに影響します。下の「プレイヤーの子供のみ影響」オプションも有効な場合、このオプションは機能しません。[デフォルト: 偽]" />
 	</strings>
 </base>

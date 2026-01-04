@@ -10,8 +10,6 @@
 		<string id="CGFR_5GjemDpY" text="Einstellungen für die Wachstumsrate von Kindern" />
 		<string id="CGFR_xpz8K0H5" text="Wachstumsrate" />
 		<string id="CGFR_1ZWhgRlk" text="Wachstumsrate bei Kindern. 1 = normale Rate; 2 = doppelt so schnell; 3 = dreimal so schnell usw. [Standard: 2]" />
-		<string id="CGFR_86Zt3waL" text="Wann wird der Held volljährig?" />
-		<string id="CGFR_Aog3zurZ" text="Teilen Sie diesem Mod mit, wann Kinder volljährig werden. Warum? Wenn Sie den Mod 'Bannerlord Expanded - Children Expanded' verwenden, gibt es eine Einstellung 'Held wird volljährig'. Stellen Sie diese Einstellung genauso ein wie diese. [Standard: 18]" />
 		<string id="CGFR_88NRzszQ" text="Nur Kinder des Spielers beeinflussen" />
 		<string id="CGFR_s9e0XtHk" text="Mod beeinflusst nur die Wachstumsrate der Kinder des Spielers. [Standard: falsch]" />
 		<string id="CGFR_MYAPs8YR" text="Sofortiges Wachstum von Kindern" />
@@ -32,7 +30,7 @@
 		<string id="CGFR_DlU01AjN" text="Passen Sie die Anzahl der Tage an, die für die Geburt von Kindern erforderlich sind. [Standard: 36]" />
 		<string id="CGFR_DBnFt8A9" text="Überprüfung der Anzahl der Eigenschaften eines Kindes" />
 		<string id="CGFR_kJimhLwp" text="Wie viele Eigenschaften muss ein Kind haben, damit dieser Mod aufhört zu überprüfen, ob eine neue Eigenschaft hinzugefügt werden kann? [Standard: 3]" />
-		<string id="CGFR_xJ1yLMuy" text="" />
-		<string id="CGFR_IOUT6bW1" text="" />
+		<string id="CGFR_xJ1yLMuy" text="Nur Kinder des Spielerclans beeinflussen" />
+		<string id="CGFR_IOUT6bW1" text="Mod beeinflusst nur die Wachstumsrate der Kinder des Spielerclans. Wenn die untenstehende Option 'Nur Kinder des Spielers beeinflussen' ebenfalls aktiviert ist, funktioniert diese Option nicht. [Standard: falsch]" />
 	</strings>
 </base>
